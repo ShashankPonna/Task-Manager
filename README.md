@@ -52,5 +52,5 @@ Marking Complete: Use the checkbox to mark tasks as done
 
 Persistence: All tasks are saved in the browser's localStorage and are automatically loaded on page refresh
 
-#  Acknowledgments
+##  Acknowledgments
 I developed this project independently, using my own skills for design and functionality. I referred to ChatGPT for guidance specifically on understanding and implementing localStorage in JavaScript.
